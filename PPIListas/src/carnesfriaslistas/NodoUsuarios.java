@@ -7,8 +7,7 @@ public class NodoUsuarios {
     private String idUsuario,Nombre,Apellido,Correo,Contrasena,ConfirmarContrasena;
     private NodoUsuarios liga;
 
-    //Este Nodo es Mejor para el PPI
-    //By: Alexander Chalarca
+    
     public NodoUsuarios() {
     }
 
