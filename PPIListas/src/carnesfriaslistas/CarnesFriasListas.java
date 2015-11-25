@@ -9,7 +9,7 @@ public class CarnesFriasListas {
         
         //Ingreso al sistema
         IngresoSistema miIngreso = new IngresoSistema();
-        miIngreso.setVisible(true);
+        miIngreso.setVisible(true);//visible la ventana
     }
     
 }
